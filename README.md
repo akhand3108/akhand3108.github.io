@@ -1,65 +1,88 @@
-# Akhand Patel | About Me
+---
+title: Akhand Patel | About me
+---
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width">
+<meta name="description" content="Hi there, I am Akhand Patel, a master's student in Computer Science and Engineering at IIT BHUBANESHWAR.">
+
+<style>
+  :root {
+    --dark-color: #121212;
+    /* define the background color variable */
+    --light-color: #ffffff;
+    /* define the text color variable */
+  }
+
+  html {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  /* ... (the rest of your CSS styles) ... */
+
+</style>
+
+<link rel="apple-touch-icon" sizes="57x57" href="./files/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="./files/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="./files/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="./files/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="./files/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="./files/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="./files/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="./files/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="./files/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="./files/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="./files/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+</head>
+<body>
+
+# About me
 
 ![akhand patel](./files/cover-image.webp)
 
-## About Me
+## Hey there,
 
-Hey there,
+I am **Akhand Patel**, recently graduated from Masters in CSE at IIT BHUBANESWAR.
 
-I am **Akhand Patel**, a recent graduate from the Master's program in Computer Science and Engineering at IIT Bhubaneswar. I have a keen interest in web development and networking. I'm proficient in React and Node.js, and I'm currently learning Golang. You might even find me working on my own Twitter clone someday!
+Interested in everything about the web and networks. I do a bit of web development in React and NodeJS. I am currently learning Golang. Stay tuned maybe I will write my own Twitter Clone 😜.
 
-Here is my [Resume](./files/resume.pdf) for more details.
+Here is my [**Resume**](./files/resume.pdf) ![Resume Icon](svg-icon-url-here)
 
 ## Why is my website not using the latest frameworks?
 
-Because I don't need to. I believe in simplicity and efficiency. If you're curious about this approach, check out the philosophy of [mother*******website](https://motherfuckingwebsite.com/).
-
-## Tech I Know
-
-Here are some of the technologies I'm familiar with:
-
-![Golang](https://img.shields.io/badge/-Golang-blue?style=flat-square&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c%2B%2B&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-orange?style=flat-square&logo=firebase&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
-![ReactJS](https://img.shields.io/badge/-ReactJS-blue?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white)
+Because I don't need to. I don't need a 2gb js package to show you a few links. For more Read [mother*******website](https://motherfuckingwebsite.com/)
 
 ## Projects
 
-Here are some of the projects I've worked on:
+Here are some projects which I have worked upon:
 
-1. [Simple Redis Implementation](https://github.com/theakhandpatel/redis-server) (Golang)
-2. [COAP Results Upload Tracker](https://github.com/theakhandpatel/COAP_RESULTS_UPLOAD_TRACKER) (Node.js)
-3. Scalable Pharmaceutical Supply Chain using Blockchain (HyperLedger, IPFS)
-4. Similarity Index between documents (Plagiarism Detection) Python
-5. [Cloud Storage Solution](https://drive.theakhandpatel.me/) (React and Firebase)
-6. [CryptoCurrency Price Tracker Alarm Extension](https://github.com/theakhandpatel/BUY_THE_DIP) (Chrome V2 Manifest)
-7. [Personal Online Image Gallery](https://firegram.theakhandpatel.me) (React, Firebase)
-8. [Youtube Video Downloader](https://github.com/theakhandpatel/YouLoader) (MERN)
-9. [Simple WhatsApp Clone](https://whatsup.theakhandpatel.me/) (React, Firebase)
-10. [Movie Info Cataloguing Website](https://netflic.theakhandpatel.me/) (React, Firebase)
-
-## Blogs I Read
-
-Here are some tech blogs I regularly read:
-
-- [CloudFlare Blog](https://blog.cloudflare.com/)
-- [Netflix TechBlog](https://netflixtechblog.com/)
-- [Spotify Engineering Blog](https://engineering.atspotify.com/)
-- [Uber Engineering Blog](https://www.uber.com/en-IN/blog/engineering/)
-- [WebDev Blog](https://web.dev/blog/)
+1. **[Simple Redis Implementation](https://github.com/theakhandpatel/redis-server)** (Golang)
+2. **[Chopper (URL Shortener API)](https://github.com/theakhandpatel/Chopper)** (Golang)
+3. **[LensLocked (Web Gallery Application)](https://github.com/theakhandpatel/lenslocked)** (Golang)
+4. **[Snippet (Share Text Snippet With Others)](https://github.com/theakhandpatel/snippetbox)** (Golang)
+5. **[MovieDB API](https://github.com/theakhandpatel/MovieDB)** (Golang)
+6. **[COAP RESULTS UPLOAD TRACKER](https://github.com/theakhandpatel/COAP_RESULTS_UPLOAD_TRACKER)** (NodeJS)
+7. **[Personal Cloud storage solution](https://github.com/theakhandpatel/Gdrive-Clone)** (React and Firebase)
+8. **[CryptoCurrency Price Tracker Alarm Extension](https://github.com/theakhandpatel/BUY_THE_DIP)** (Chrome V2 Manifest)
+9. **[Personal Online Image Gallery](https://github.com/theakhandpatel/Firebase-gallery)** (React, Firebase)
+10. **[Youtube Video Downloader](https://github.com/theakhandpatel/YouLoader)** (MERN)
+11. **[Simple Whatsapp Clone](https://github.com/theakhandpatel/whatsapp-clone-v1)** (React, Firebase)
+12. **[Markdown Editor](https://github.com/theakhandpatel/evernote-clone)** (React, Firebase)
+13. **[Movie Info Cataloguing Website](https://github.com/theakhandpatel/watch-it-tonight)** (React, Firebase)
 
 ## Contact
 
-Feel free to get in touch with me:
+Mail me - [theakhandpatel@gmail.com](mailto:theakhandpatel@gmail.com)
 
-- Email: [theakhandpatel@gmail.com](mailto:theakhandpatel@gmail.com)
-- GitHub: [![GitHub](https://img.shields.io/github/followers/theakhandpatel?style=social)](https://github.com/theakhandpatel)
-- Twitter: [![Twitter](https://img.shields.io/twitter/follow/theakhandpatel?style=social)](https://twitter.com/theakhandpatel)
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/-Akhand%20Patel-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/theakhandpatel/)](https://www.linkedin.com/in/theakhandpatel/)
+Following are some links you may find useful:
+
+- GitHub: [theakhandpatel](https://github.com/theakhandpatel)
+- Twitter: [theakhandpatel](https://twitter.com/theakhandpatel)
+- Linkedin: [Akhand Patel](https://www.linkedin.com/in/theakhandpatel/)
